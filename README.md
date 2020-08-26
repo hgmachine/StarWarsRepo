@@ -1,5 +1,5 @@
 # Star Wars Repository
 
-![tiefigther.jpeg](Tie Figther)
+![Alt text](tiefigther.jpeg?raw=true "Optional Title")
 
 Este reposítorio serve de exemplo para o treinamento de GIT
